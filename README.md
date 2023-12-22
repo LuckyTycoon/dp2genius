@@ -1,9 +1,1 @@
-## Contact Me
-
-Feel free to reach out to me through any of the following channels:
-
-- Email: [dp2genius83@skiff.com](mailto:dp2genius83@skiff.com)
-
-I am available for collaboration, networking, or any exciting opportunities. Let's connect and have a chat on Slack!
-
-## Portfolio
+![slack-imgs](https://github.com/dp2genius/dp2genius/assets/144485411/2adafbef-d1e3-487a-bda9-5e974991e1ea)
