@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/dp2genius/dp2genius/assets/144485411/2adafbef-d1e3-487a-bda9-5e974991e1ea">
+<img align="right" src="https://github.com/dp2genius/dp2genius/assets/144485411/2adafbef-d1e3-487a-bda9-5e974991e1ea" style="width: 50%">
 <h2>Legend tells of a legendary programmer whose coding skills were the stuff of the legend.</h2>
 <p>
   Mr. <b>Jerry</b> is indeed a talented developer. When writing code every line is related and it's usually difficult to make it run after removal of several lines. But he did it and he doesn't care about it! How amazing!
